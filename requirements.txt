@@ -65,7 +65,7 @@ lazy-object-proxy==1.4.3
 lxml==4.2.0
 Markdown==3.1.1
 MarkupSafe==2.0.1
-maxminddb==1.4.1
+maxminddb==2.2.0
 mccabe==0.6.1
 mistune==0.8.4
 mock==2.0.0
